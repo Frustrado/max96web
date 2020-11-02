@@ -38,8 +38,8 @@ date_format = "Jan 2006"
   company = "Boyne Mountain Resort"
   company_url = "https://www.boynemountain.com/"
   location = "Michigan"
-  date_start = "2019-06"
-  date_end = "2019-10"
+  date_start = "2019-06-20"
+  date_end = "2019-09-29"
   description = """
   Responsibilities include:
   
@@ -53,8 +53,8 @@ date_format = "Jan 2006"
   company = "ROHLIG SUUS Logistics"
   company_url = "https://www.suus.com/"
   location = "Warsaw"
-  date_start = "2017-07"
-  date_end = "2017-09"
+  date_start = "2017-07-03"
+  date_end = "2017-09-30"
   description = """
   Responsibilities include:
 
