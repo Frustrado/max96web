@@ -41,11 +41,6 @@ date_format = "Jan 2006"
   date_start = "2019-06-20"
   date_end = "2019-09-29"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
   """
 
 [[experience]]
