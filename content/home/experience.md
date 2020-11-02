@@ -18,12 +18,28 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Software Engineer"
+  company = "Geminid Systems, Inc"
+  company_url = "https://www.geminidsystems.com/"
+  location = "Remote"
+  date_start = "2019-11-10"
+  date_end = "2020-04-10"
+  description = """
+  Responsibilities include:
+  
+  * Salesforce Backend Development using Apex, REST integration
+  * Database Development using Data Modeling
+  * Testing new solutions
+  """
+
+
+[[experience]]
+  title = "Work&Travel"
+  company = "Boyne Mountain Resort"
+  company_url = "https://www.boynemountain.com/"
+  location = "Michigan"
+  date_start = "2019-06"
+  date_end = "2019-10"
   description = """
   Responsibilities include:
   
@@ -33,12 +49,16 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "IT Trainee"
+  company = "ROHLIG SUUS Logistics"
+  company_url = "https://www.suus.com/"
+  location = "Warsaw"
+  date_start = "2017-07"
+  date_end = "2017-09"
+  description = """
+  Responsibilities include:
+
+  * improving and creating SQL functions
+  * creating new reports in Microsoft SQL Server Report Builder"""
 
 +++
