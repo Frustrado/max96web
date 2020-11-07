@@ -26,12 +26,12 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Academic"
+    tag = "academic"
   
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "Free-time"
+    tag = "freetime"
 
   # [[content.filter_button]]
   #   name = "All"
