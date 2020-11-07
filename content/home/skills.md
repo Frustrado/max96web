@@ -18,19 +18,19 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "70%"
+  description = "80%"
   
 [[feature]]
   icon = "java"
   icon_pack = "fab"
   name = "Java"
-  description = "60%" 
+  description = "75%" 
 
 [[feature]]
   icon = "database"
-  icon_pack = "fas"
-  name = "SQL"
-  description = "80%" 
+  icon_pack = "custom"
+  name = "sql-server"
+  description = "90%" 
   
 
 # Uncomment to use emoji icons.
