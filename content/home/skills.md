@@ -27,9 +27,9 @@ subtitle = ""
   description = "75%" 
 
 [[feature]]
-  icon = "database"
+  icon = "sql-server"
   icon_pack = "custom"
-  name = "sql-server"
+  name = "SQL"
   description = "90%" 
   
 
