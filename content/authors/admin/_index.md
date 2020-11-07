@@ -20,6 +20,8 @@ interests:
 - Big Data
 - Data Science
 - Machine Learning
+- Software Development
+- Data Engineering
 
 education:
   courses:
